@@ -29,7 +29,11 @@ Weather-App/
 
 ├── requirements.txt
 
-└── screenshots/
+├── code ss.png
+
+├── code&op-vd.mp4
+
+└── output ss.png
 
 ## ▶️ How to Run
 
